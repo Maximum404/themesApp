@@ -3,9 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "e92f6108283662249ada2a9cdf3a4a7a",
-"assets/AssetManifest.bin.json": "bee8de41fbe31dba308a0b6ee56bbea4",
-"assets/AssetManifest.json": "381be65e948f53e6bf88abf9917dd428",
+const RESOURCES = {"assets/AssetManifest.bin": "cc98d1f39c539f86d4d1e62a251c70ba",
+"assets/AssetManifest.bin.json": "789bef5c24c374954db8e7daeb238821",
+"assets/AssetManifest.json": "a3190d8a31451f790d258dd7da67beba",
+"assets/assets/images/ball.jpg": "1e82ce30e7f506c8ab9f2708a1a31c19",
+"assets/assets/images/i-_3_.jpg": "7bd8ae302de01df8dd4f05214c3ba162",
+"assets/assets/images/i-_4_.jpg": "05f7a50e3393df2761aa237299ddae32",
+"assets/assets/images/skipping.jpg": "0e15e206fb5ee8db085a79aea64a6aca",
+"assets/assets/images/skipping_rope.jpg": "1d26b3fafc221eb670edcbcffb611926",
 "assets/assets/images/sport1.jpeg": "3b4e67c72ae57b293420a040253574b0",
 "assets/assets/images/sport2.jpg": "c773debe4eec3659af7d66d6b1ce6855",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
@@ -25,14 +30,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "e92f6108283662249ada2a9cdf3a4a7a
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
-"flutter_bootstrap.js": "67b1a069ad653b780b91776188c7b5c1",
+"flutter_bootstrap.js": "c69d060b54d4c2c84aabb024a7fdf679",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "7d441016c87c6cab5d7c32c507698c17",
 "/": "7d441016c87c6cab5d7c32c507698c17",
-"main.dart.js": "1580e1ad00f7441fadb1286ce0be0b6d",
+"main.dart.js": "27a17ff58015c7f98910206843490afd",
 "manifest.json": "7bb65233243859634d95fe53550cbef5",
 "version.json": "a86c72285b6a023bd45f3fadc88eb4a6"};
 // The application shell files that are downloaded before a service worker can
