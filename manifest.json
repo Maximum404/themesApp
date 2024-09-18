@@ -1,6 +1,6 @@
 {
-    "name": "tg_webapp_shop",
-    "short_name": "tg_webapp_shop",
+    "name": "flutter_sport_shop_webapp",
+    "short_name": "flutter_sport_shop_webapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
